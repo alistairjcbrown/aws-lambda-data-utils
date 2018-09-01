@@ -1,0 +1,21 @@
+{
+  "name": "aws-lambda-data-utils",
+  "version": "1.0.0",
+  "description": "Common data utils for pulling and pushing data in AWS lambdas",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alistair Brown <npm@alistairjcbrown.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-prettier": "^2.4.0",
+    "prettier": "^1.12.1"
+  }
+}
